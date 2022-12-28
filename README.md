@@ -7,7 +7,7 @@
     }
     #links{
         box-shadow: 2px 2px 15px gray;
-        border-radius: 10px;
+        border-radius: 20px;
         padding: 10px;
         background-color: white;
     }

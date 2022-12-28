@@ -6,6 +6,7 @@
         background-color: rgb(195, 195, 195);
     }
     #links{
+        box-shadow: 2px 2px 15px gray;
         border-radius: 10px;
         padding: 10px;
         background-color: white;

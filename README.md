@@ -1,5 +1,5 @@
 # Projets
- Alguns projetos feitos durante os cursos de html, css e Javascript
+ Alguns projetos feitos durante os cursos de html, css e Javascript:
 
 <p><a href="https://devrafaelcruz.github.io/Projets/android/index.html">Projeto Android.
 <p><a href="https://devrafaelcruz.github.io/Projets/calculadora/index.html">Projeto de calculadora.

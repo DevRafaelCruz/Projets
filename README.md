@@ -3,10 +3,16 @@
 
 <style>
     body{
-        background-color: gray;
+        background-color: rgb(195, 195, 195);
     }
     #links{
+        border-radius: 10px;
+        padding: 10px;
         background-color: white;
+    }
+    p:hover p{
+        padding: 10px;
+        background-color: rgb(195, 195, 195);
     }
 </style>
 <div id="links">

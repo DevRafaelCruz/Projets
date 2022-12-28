@@ -11,7 +11,6 @@
         background-color: white;
     }
     a:hover p{
-        padding: 10px;
         background-color: rgb(195, 195, 195);
     }
 </style>

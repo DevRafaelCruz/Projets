@@ -1,5 +1,5 @@
 # Projets
- Alguns projetos feitos durante os cursos de html, css e Javascript: Atualizado!
+ Alguns projetos feitos durante os cursos de html, css e Javascript:
 
 <style>
     body{
@@ -10,7 +10,7 @@
         padding: 10px;
         background-color: white;
     }
-    p:hover p{
+    a:hover p{
         padding: 10px;
         background-color: rgb(195, 195, 195);
     }

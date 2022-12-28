@@ -10,7 +10,7 @@
         padding: 10px;
         background-color: white;
     }
-    a:hover p{
+    p :hover p > a{
         background-color: rgb(195, 195, 195);
     }
 </style>

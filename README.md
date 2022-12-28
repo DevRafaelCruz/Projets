@@ -26,5 +26,4 @@
     <p><a href="https://devrafaelcruz.github.io/Projets/social/index.html">Redes sociais (por enquanto está com as redes do professor (<strong>Gustavo Guanabara.</strong>))
     <p><a href="https://devrafaelcruz.github.io/Projets/tabuada/modelox.html">Tabuada.
     <p><a href="https://devrafaelcruz.github.io/Projets/verificador-de-idade/modelox.html">Verificador de idade.
-<div>
-<p><a href="https://github.com/DevRafaelCruz">Meu perfil no Github..
+    <p><a href="https://github.com/DevRafaelCruz">Meu perfil no Github...

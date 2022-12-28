@@ -12,6 +12,4 @@
 <p><a href="https://devrafaelcruz.github.io/Projets/tabuada/modelox.html">Tabuada.
 <p><a href="https://devrafaelcruz.github.io/Projets/verificador-de-idade/modelox.html">Verificador de idade.
 
-<row>
-
 <p><a href="https://github.com/DevRafaelCruz">Meu perfil no Github..
